@@ -109,8 +109,9 @@ body{
 
 
 .nav_bg{
-    height: 1000px;
-    width: auto ;
+    height: 100%;
+    width: 100% ;
     background-image: url(arabi_black.jpeg);
     background-repeat:no-repeat;
+
 }
