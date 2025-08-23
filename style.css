@@ -112,6 +112,8 @@ body{
     height: 100%;
     width: 100% ;
     background-image: url(arabi_black.jpeg);
+    background-size: contain;
     background-repeat:no-repeat;
 
 }
+
